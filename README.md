@@ -2,7 +2,7 @@
 
 Workshop hands-on em **português (Brasil)** para times de negócio e analytics. O material cobre upload de dados no Unity Catalog e um visual data prep no [Lakeflow Designer](https://docs.databricks.com/aws/en/designer/what-is-lakeflow-designer) explorando o máximo de [operadores nativos](https://docs.databricks.com/aws/en/designer/built-in-operators) — **sem bloco Python**.
 
-O fluxo segue o espírito do workshop de Sidney (fontes → qualidade → join → IA em texto → output), adaptado para o cenário **Aurora Café**.
+O fluxo cobre fontes, qualidade, join, IA em texto e output, no cenário **Aurora Café**.
 
 ---
 

@@ -276,7 +276,7 @@ Para cada tabela:
 
 4. Apply e confira o preview.
 
-### 2.4 Parâmetro de cidade (como no workshop de Sidney)
+### 2.4 Parâmetro de cidade
 
 1. Painel esquerdo → **Parameters** → adicionar parâmetro.
 2. Nome: `cidade_filtro`
@@ -363,7 +363,7 @@ Esse padrão é o mesmo do tutorial oficial (filtro `status = confirmed`).
 6. Merge strategy: **All**.
 7. Advanced: **Union by name** + **Allow missing columns**.
 
-Você acaba de unificar dois fluxos sem Python — equivalente ao union online/offline do material de referência.
+Você acaba de unificar dois fluxos sem Python.
 """
     ),
     md(
@@ -406,7 +406,7 @@ WHERE cidade = :cidade_filtro
    OR :cidade_filtro = 'TODAS'
 ```
 
-3. Troque o parâmetro entre `São Paulo` e `TODAS` e veja o preview mudar — mesmo padrão do Sidney (`WHERE city = :city_filter`).
+3. Troque o parâmetro entre `São Paulo` e `TODAS` e veja o preview mudar.
 
 ### 4.4 Filter de negócio: só confirmados
 
@@ -418,8 +418,6 @@ Use **Included** daqui para frente.
     md(
         """---
 ## Módulo 5 — AI Function, Aggregate, Pivot, Sort, Limit
-
-Espelha o grupo **Review Sentiment Pipeline** do workshop de Sidney, sem Python.
 
 Crie um **Group** no canvas chamado `Pipeline de sentimento` e coloque os operadores 5.1–5.4 dentro dele ([Group](https://docs.databricks.com/aws/en/designer/built-in-operators#group)).
 
@@ -456,7 +454,7 @@ Funções disponíveis no mesmo operador (não todas neste lab): `ai_analyze_sen
    - Colunas fixas: `cidade`, `produto`
 3. Resultado esperado: colunas `positivo`, `misto`, `negativo`.
 
-No Sidney, um bloco Python garantia colunas ausentes. Aqui, se faltar uma coluna, use **SQL** (não Python):
+Se faltar uma coluna no Pivot, use **SQL** (não Python):
 
 ```sql
 SELECT
@@ -614,7 +612,7 @@ Marque o que você usou no canvas:
 - Materialized view no Output para consumo no AI/BI Dashboard
 - Operadores customizados compartilhados, se o time precisar de lógica de negócio reutilizável
 
-**Você terminou o workshop.** O canvas gera código versionável em Git e pode ir para produção como pipeline Lakeflow — o mesmo caminho do workshop de Sidney, agora em PT-BR e sem Python.
+**Você terminou o workshop.** O canvas gera código versionável em Git e pode ir para produção como pipeline Lakeflow.
 """
     ),
 ]

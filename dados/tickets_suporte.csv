@@ -1,0 +1,61 @@
+ticket_id,cliente_id,pedido_id,prioridade,status,comentario,sentimento_esperado,data_abertura
+tk_2001,1,1000,baixa,aberto,"Simplesmente perfeito, nada a reclamar.",positivo,2025-10-06
+tk_2002,2,1001,media,pendente,"Gostei do produto, porém o aplicativo travou no checkout.",misto,2025-10-07
+tk_2003,3,1002,alta,fechado,Não consigo rastrear meu pedido online. O sistema dá erro.,negativo,2025-10-08
+tk_2004,4,1003,baixa,aberto,Atendimento excelente na loja da Paulista.,positivo,2025-10-09
+tk_2005,5,1004,media,pendente,"O preço está um pouco alto, mas a qualidade justifica.",misto,2025-10-10
+tk_2006,6,1005,alta,fechado,O suporte demorou 3 dias para responder um oi. Inaceitável.,negativo,2025-10-11
+tk_2007,7,1006,baixa,aberto,Muito satisfeito com a agilidade na entrega.,positivo,2025-10-12
+tk_2008,8,1007,media,pendente,"Combo brunch bom, só veio sem o molho pedido.",misto,2025-10-13
+tk_2009,9,1008,alta,fechado,Quero cancelar meu pedido mas não encontro o botão no app.,negativo,2025-10-14
+tk_2010,10,1009,baixa,aberto,Pedido online chegou antes do prazo. Recomendo!,positivo,2025-10-15
+tk_2011,11,1010,media,pendente,"Sabor ótimo, mas a espera na loja foi longa.",misto,2025-10-16
+tk_2012,12,1011,alta,fechado,O tamanho veio errado e a troca está demorando muito. Péssimo.,negativo,2025-10-17
+tk_2013,13,1012,baixa,aberto,O cappuccino chegou quente e o pão de queijo estava crocante.,positivo,2025-10-18
+tk_2014,14,1013,media,pendente,"Gostei do produto, porém o aplicativo travou no checkout.",misto,2025-10-19
+tk_2015,15,1014,alta,fechado,Café frio e pão de queijo murcho. Não volto.,negativo,2025-10-20
+tk_2016,16,1015,baixa,aberto,"Simplesmente perfeito, nada a reclamar.",positivo,2025-10-21
+tk_2017,17,1016,media,pendente,"O preço está um pouco alto, mas a qualidade justifica.",misto,2025-10-22
+tk_2018,18,1017,alta,fechado,Não consigo rastrear meu pedido online. O sistema dá erro.,negativo,2025-10-23
+tk_2019,19,1018,baixa,aberto,Atendimento excelente na loja da Paulista.,positivo,2025-10-24
+tk_2020,20,1019,media,pendente,"Combo brunch bom, só veio sem o molho pedido.",misto,2025-10-25
+tk_2021,21,1020,alta,fechado,O suporte demorou 3 dias para responder um oi. Inaceitável.,negativo,2025-10-26
+tk_2022,22,1021,baixa,aberto,Muito satisfeito com a agilidade na entrega.,positivo,2025-10-27
+tk_2023,23,1022,media,pendente,"Sabor ótimo, mas a espera na loja foi longa.",misto,2025-10-28
+tk_2024,24,1023,alta,fechado,Quero cancelar meu pedido mas não encontro o botão no app.,negativo,2025-10-29
+tk_2025,25,1024,baixa,aberto,Pedido online chegou antes do prazo. Recomendo!,positivo,2025-10-30
+tk_2026,26,1025,media,pendente,"Gostei do produto, porém o aplicativo travou no checkout.",misto,2025-10-31
+tk_2027,27,1026,alta,fechado,O tamanho veio errado e a troca está demorando muito. Péssimo.,negativo,2025-11-01
+tk_2028,28,1027,baixa,aberto,O cappuccino chegou quente e o pão de queijo estava crocante.,positivo,2025-11-02
+tk_2029,29,1028,media,pendente,"O preço está um pouco alto, mas a qualidade justifica.",misto,2025-11-03
+tk_2030,30,1029,alta,fechado,Café frio e pão de queijo murcho. Não volto.,negativo,2025-11-04
+tk_2031,31,1030,baixa,aberto,"Simplesmente perfeito, nada a reclamar.",positivo,2025-11-05
+tk_2032,32,1031,media,pendente,"Combo brunch bom, só veio sem o molho pedido.",misto,2025-11-06
+tk_2033,33,1032,alta,fechado,Não consigo rastrear meu pedido online. O sistema dá erro.,negativo,2025-11-07
+tk_2034,34,1033,baixa,aberto,Atendimento excelente na loja da Paulista.,positivo,2025-11-08
+tk_2035,35,1034,media,pendente,"Sabor ótimo, mas a espera na loja foi longa.",misto,2025-11-09
+tk_2036,36,1035,alta,fechado,O suporte demorou 3 dias para responder um oi. Inaceitável.,negativo,2025-11-10
+tk_2037,37,1036,baixa,aberto,Muito satisfeito com a agilidade na entrega.,positivo,2025-11-11
+tk_2038,38,1037,media,pendente,"Gostei do produto, porém o aplicativo travou no checkout.",misto,2025-11-12
+tk_2039,39,1038,alta,fechado,Quero cancelar meu pedido mas não encontro o botão no app.,negativo,2025-11-13
+tk_2040,40,1039,baixa,aberto,Pedido online chegou antes do prazo. Recomendo!,positivo,2025-10-05
+tk_2041,41,1040,media,pendente,"O preço está um pouco alto, mas a qualidade justifica.",misto,2025-10-06
+tk_2042,42,1041,alta,fechado,O tamanho veio errado e a troca está demorando muito. Péssimo.,negativo,2025-10-07
+tk_2043,43,1042,baixa,aberto,O cappuccino chegou quente e o pão de queijo estava crocante.,positivo,2025-10-08
+tk_2044,44,1043,media,pendente,"Combo brunch bom, só veio sem o molho pedido.",misto,2025-10-09
+tk_2045,45,1044,alta,fechado,Café frio e pão de queijo murcho. Não volto.,negativo,2025-10-10
+tk_2046,46,1045,baixa,aberto,"Simplesmente perfeito, nada a reclamar.",positivo,2025-10-11
+tk_2047,47,1046,media,pendente,"Sabor ótimo, mas a espera na loja foi longa.",misto,2025-10-12
+tk_2048,48,1047,alta,fechado,Não consigo rastrear meu pedido online. O sistema dá erro.,negativo,2025-10-13
+tk_2049,49,1048,baixa,aberto,Atendimento excelente na loja da Paulista.,positivo,2025-10-14
+tk_2050,50,1049,media,pendente,"Gostei do produto, porém o aplicativo travou no checkout.",misto,2025-10-15
+tk_2051,51,1050,alta,fechado,O suporte demorou 3 dias para responder um oi. Inaceitável.,negativo,2025-10-16
+tk_2052,52,1051,baixa,aberto,Muito satisfeito com a agilidade na entrega.,positivo,2025-10-17
+tk_2053,53,1052,media,pendente,"O preço está um pouco alto, mas a qualidade justifica.",misto,2025-10-18
+tk_2054,54,1053,alta,fechado,Quero cancelar meu pedido mas não encontro o botão no app.,negativo,2025-10-19
+tk_2055,55,1054,baixa,aberto,Pedido online chegou antes do prazo. Recomendo!,positivo,2025-10-20
+tk_2056,56,1055,media,pendente,"Combo brunch bom, só veio sem o molho pedido.",misto,2025-10-21
+tk_2057,57,1056,alta,fechado,O tamanho veio errado e a troca está demorando muito. Péssimo.,negativo,2025-10-22
+tk_2058,58,1057,baixa,aberto,O cappuccino chegou quente e o pão de queijo estava crocante.,positivo,2025-10-23
+tk_2059,59,1058,media,pendente,"Sabor ótimo, mas a espera na loja foi longa.",misto,2025-10-24
+tk_2060,60,1059,alta,fechado,Café frio e pão de queijo murcho. Não volto.,negativo,2025-10-25

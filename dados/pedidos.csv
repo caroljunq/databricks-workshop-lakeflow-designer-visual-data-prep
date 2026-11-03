@@ -1,0 +1,202 @@
+pedido_id,cliente_id,produto,categoria,quantidade,valor_unitario,valor_total,canal,status,data_pedido,loja
+1000,1,Espresso,Bebida,2,8.50,17.00,ONLINE,confirmado,2025-10-02,Aurora São Paulo
+1001,2,Cappuccino,Bebida,3,14.90,44.70,ONLINE,confirmado,2025-10-03,Aurora Rio de Janeiro
+1002,3,Latte,Bebida,1,16.50,16.50,LOJA,pendente,2025-10-04,Aurora Curitiba
+1003,4,Pão de Queijo,Salgado,2,9.90,19.80,ONLINE,cancelado,2025-10-05,Aurora Belo Horizonte
+1004,5,Bolo de Cenoura,Doce,3,12.50,37.50,ONLINE,confirmado,2025-10-06,Aurora Porto Alegre
+1005,6,Combo Brunch,Combo,1,42.00,42.00,LOJA,confirmado,2025-10-07,Aurora São Paulo
+1006,7,Espresso,Bebida,2,8.50,17.00,ONLINE,confirmado,2025-10-08,Aurora Rio de Janeiro
+1007,8,Cappuccino,Bebida,3,14.90,44.70,ONLINE,pendente,2025-10-09,Aurora Curitiba
+1008,9,Latte,Bebida,1,16.50,16.50,LOJA,cancelado,2025-10-10,Aurora Belo Horizonte
+1009,10,Pão de Queijo,Salgado,2,9.90,19.80,ONLINE,confirmado,2025-10-11,Aurora Porto Alegre
+1010,11,Bolo de Cenoura,Doce,3,12.50,37.50,ONLINE,confirmado,2025-10-12,Aurora São Paulo
+1011,12,Combo Brunch,Combo,1,42.00,42.00,LOJA,confirmado,2025-10-13,Aurora Rio de Janeiro
+1012,13,Espresso,Bebida,2,8.50,17.00,ONLINE,pendente,2025-10-14,Aurora Curitiba
+1013,14,Cappuccino,Bebida,3,14.90,44.70,ONLINE,cancelado,2025-10-15,Aurora Belo Horizonte
+1014,15,Latte,Bebida,1,16.50,-12.50,LOJA,confirmado,2025-10-16,Aurora Porto Alegre
+1015,16,Pão de Queijo,Salgado,2,9.90,19.80,ONLINE,confirmado,2025-10-17,Aurora São Paulo
+1016,17,Bolo de Cenoura,Doce,3,12.50,37.50,ONLINE,confirmado,2025-10-18,Aurora Rio de Janeiro
+1017,18,Combo Brunch,Combo,1,42.00,42.00,LOJA,pendente,2025-10-19,Aurora Curitiba
+1018,19,Espresso,Bebida,2,8.50,17.00,ONLINE,cancelado,2025-10-20,Aurora Belo Horizonte
+1019,20,Cappuccino,Bebida,3,14.90,44.70,ONLINE,confirmado,2025-10-21,Aurora Porto Alegre
+1020,21,Latte,Bebida,1,16.50,16.50,LOJA,confirmado,2025-10-22,Aurora São Paulo
+1021,22,Pão de Queijo,Salgado,2,9.90,19.80,ONLINE,PENDNETE,2025-10-23,Aurora Rio de Janeiro
+1022,23,Bolo de Cenoura,Doce,3,12.50,37.50,ONLINE,pendente,2025-10-24,Aurora Curitiba
+1023,24,Combo Brunch,Combo,1,42.00,42.00,LOJA,cancelado,2025-10-25,Aurora Belo Horizonte
+1024,25,Espresso,Bebida,2,8.50,17.00,ONLINE,confirmado,2025-10-26,Aurora Porto Alegre
+1025,26,Cappuccino,Bebida,3,14.90,44.70,ONLINE,confirmado,2025-10-27,Aurora São Paulo
+1026,27,Latte,Bebida,1,16.50,16.50,LOJA,confirmado,2025-10-28,Aurora Rio de Janeiro
+1027,28,Pão de Queijo,Salgado,2,9.90,19.80,ONLINE,pendente,2025-10-29,Aurora Curitiba
+1028,29,Bolo de Cenoura,Doce,3,12.50,37.50,ONLINE,cancelado,2025-10-30,Aurora Belo Horizonte
+1029,30,Combo Brunch,Combo,1,42.00,42.00,LOJA,confirmado,2025-10-31,Aurora Porto Alegre
+1030,31,Espresso,Bebida,2,8.50,17.00,ONLINE,confirmado,2025-11-01,Aurora São Paulo
+1031,32,Cappuccino,Bebida,3,14.90,44.70,ONLINE,confirmado,2025-11-02,Aurora Rio de Janeiro
+1032,33,Latte,Bebida,1,16.50,16.50,LOJA,pendente,2025-11-03,Aurora Curitiba
+1033,34,Pão de Queijo,Salgado,2,9.90,19.80,online ,cancelado,2025-11-04,Aurora Belo Horizonte
+1034,35,Bolo de Cenoura,Doce,3,12.50,37.50,ONLINE,confirmado,2025-11-05,Aurora Porto Alegre
+1035,36,Combo Brunch,Combo,1,42.00,42.00,LOJA,confirmado,2025-11-06,Aurora São Paulo
+1036,37,Espresso,Bebida,2,8.50,17.00,ONLINE,confirmado,2025-11-07,Aurora Rio de Janeiro
+1037,38,Cappuccino,Bebida,3,14.90,44.70,ONLINE,pendente,2025-11-08,Aurora Curitiba
+1038,39,Latte,Bebida,1,16.50,16.50,LOJA,cancelado,2025-11-09,Aurora Belo Horizonte
+1039,40,Pão de Queijo,Salgado,2,9.90,19.80,ONLINE,confirmado,2025-11-10,Aurora Porto Alegre
+1040,41,Bolo de Cenoura,Doce,3,12.50,37.50,Loja,confirmado,2025-11-11,Aurora São Paulo
+1041,42,Combo Brunch,Combo,1,42.00,42.00,LOJA,confirmado,2025-11-12,Aurora Rio de Janeiro
+1042,43,Espresso,Bebida,2,8.50,17.00,ONLINE,pendente,2025-11-13,Aurora Curitiba
+1043,44,Cappuccino,Bebida,3,14.90,44.70,ONLINE,cancelado,2025-11-14,Aurora Belo Horizonte
+1044,45,Latte,Bebida,1,16.50,16.50,LOJA,confirmado,2025-10-01,Aurora Porto Alegre
+1045,46,Pão de Queijo,Salgado,2,9.90,19.80,ONLINE,confirmado,2025-10-02,Aurora São Paulo
+1046,47,Bolo de Cenoura,Doce,3,12.50,37.50,ONLINE,confirmado,2025-10-03,Aurora Rio de Janeiro
+1047,48,Combo Brunch,Combo,1,42.00,42.00,LOJA,pendente,2025-10-04,Aurora Curitiba
+1048,49,Espresso,Bebida,2,8.50,17.00,ONLINE,cancelado,2025-10-05,Aurora Belo Horizonte
+1049,50,Cappuccino,Bebida,3,14.90,44.70,ONLINE,confirmado,2025-10-06,Aurora Porto Alegre
+1050,51,Latte,Bebida,1,16.50,16.50,LOJA,confirmado,2025-10-07,Aurora São Paulo
+1051,52,Pão de Queijo,Salgado,2,9.90,19.80,ONLINE,confirmado,2025-10-08,Aurora Rio de Janeiro
+1052,53,Bolo de Cenoura,Doce,3,12.50,37.50,ONLINE,pendente,2025-10-09,Aurora Curitiba
+1053,54,Combo Brunch,Combo,1,42.00,42.00,LOJA,cancelado,2025-10-10,Aurora Belo Horizonte
+1054,55,Espresso,Bebida,2,8.50,17.00,ONLINE,confirmado,2025-10-11,Aurora Porto Alegre
+1055,56,Cappuccino,Bebida,3,14.90,44.70,ONLINE,confirmado,2025-10-12,Aurora São Paulo
+1056,57,Latte,Bebida,1,16.50,16.50,LOJA,confirmado,2025-10-13,Aurora Rio de Janeiro
+1057,58,Pão de Queijo,Salgado,2,9.90,19.80,ONLINE,pendente,2025-10-14,Aurora Curitiba
+1058,59,Bolo de Cenoura,Doce,3,12.50,37.50,ONLINE,cancelado,2025-10-15,Aurora Belo Horizonte
+1059,60,Combo Brunch,Combo,1,42.00,42.00,LOJA,confirmado,2025-10-16,Aurora Porto Alegre
+1060,61,Espresso,Bebida,2,8.50,17.00,ONLINE,confirmado,2025-10-17,Aurora São Paulo
+1061,62,Cappuccino,Bebida,3,14.90,44.70,ONLINE,confirmado,2025-10-18,Aurora Rio de Janeiro
+1062,63,Latte,Bebida,1,16.50,16.50,LOJA,pendente,2025-10-19,Aurora Curitiba
+1063,64,Pão de Queijo,Salgado,2,9.90,19.80,ONLINE,cancelado,2025-10-20,Aurora Belo Horizonte
+1064,65,Bolo de Cenoura,Doce,3,12.50,37.50,ONLINE,confirmado,2025-10-21,Aurora Porto Alegre
+1065,66,Combo Brunch,Combo,1,42.00,42.00,LOJA,confirmado,2025-10-22,Aurora São Paulo
+1066,67,Espresso,Bebida,2,8.50,17.00,ONLINE,confirmado,2025-10-23,Aurora Rio de Janeiro
+1067,68,Cappuccino,Bebida,3,14.90,44.70,ONLINE,pendente,2025-10-24,Aurora Curitiba
+1068,69,Latte,Bebida,1,16.50,16.50,LOJA,cancelado,2025-10-25,Aurora Belo Horizonte
+1069,70,Pão de Queijo,Salgado,2,9.90,19.80,ONLINE,confirmado,2025-10-26,Aurora Porto Alegre
+1070,71,Bolo de Cenoura,Doce,3,12.50,37.50,ONLINE,confirmado,2025-10-27,Aurora São Paulo
+1071,72,Combo Brunch,Combo,1,42.00,42.00,LOJA,confirmado,2025-10-28,Aurora Rio de Janeiro
+1072,73,Espresso,Bebida,2,8.50,17.00,ONLINE,pendente,2025-10-29,Aurora Curitiba
+1073,74,Cappuccino,Bebida,3,14.90,44.70,ONLINE,cancelado,2025-10-30,Aurora Belo Horizonte
+1074,75,Latte,Bebida,1,16.50,16.50,LOJA,confirmado,2025-10-31,Aurora Porto Alegre
+1075,76,Pão de Queijo,Salgado,2,9.90,19.80,ONLINE,confirmado,2025-11-01,Aurora São Paulo
+1076,77,Bolo de Cenoura,Doce,3,12.50,37.50,ONLINE,confirmado,2025-11-02,Aurora Rio de Janeiro
+1077,78,Combo Brunch,Combo,1,42.00,42.00,LOJA,pendente,2025-11-03,Aurora Curitiba
+1078,79,Espresso,Bebida,2,8.50,17.00,ONLINE,cancelado,2025-11-04,Aurora Belo Horizonte
+1079,80,Cappuccino,Bebida,3,14.90,44.70,ONLINE,confirmado,2025-11-05,Aurora Porto Alegre
+1080,1,Latte,Bebida,1,16.50,16.50,LOJA,confirmado,2025-11-06,Aurora São Paulo
+1081,2,Pão de Queijo,Salgado,2,9.90,19.80,ONLINE,confirmado,2025-11-07,Aurora Rio de Janeiro
+1082,3,Bolo de Cenoura,Doce,3,12.50,37.50,ONLINE,pendente,2025-11-08,Aurora Curitiba
+1083,4,Combo Brunch,Combo,1,42.00,42.00,LOJA,cancelado,2025-11-09,Aurora Belo Horizonte
+1084,5,Espresso,Bebida,2,8.50,17.00,ONLINE,confirmado,2025-11-10,Aurora Porto Alegre
+1085,6,Cappuccino,Bebida,3,14.90,44.70,ONLINE,confirmado,2025-11-11,Aurora São Paulo
+1086,7,Latte,Bebida,1,16.50,16.50,LOJA,confirmado,2025-11-12,Aurora Rio de Janeiro
+1087,8,Pão de Queijo,Salgado,2,9.90,19.80,ONLINE,pendente,2025-11-13,Aurora Curitiba
+1088,9,Bolo de Cenoura,Doce,3,12.50,37.50,ONLINE,cancelado,2025-11-14,Aurora Belo Horizonte
+1089,10,Combo Brunch,Combo,1,42.00,42.00,LOJA,confirmado,2025-10-01,Aurora Porto Alegre
+1090,11,Espresso,Bebida,2,8.50,17.00,ONLINE,confirmado,2025-10-02,Aurora São Paulo
+1091,12,Cappuccino,Bebida,3,14.90,44.70,ONLINE,confirmado,2025-10-03,Aurora Rio de Janeiro
+1092,13,Latte,Bebida,1,16.50,16.50,LOJA,pendente,2025-10-04,Aurora Curitiba
+1093,14,Pão de Queijo,Salgado,2,9.90,19.80,ONLINE,cancelado,2025-10-05,Aurora Belo Horizonte
+1094,15,Bolo de Cenoura,Doce,3,12.50,37.50,ONLINE,confirmado,2025-10-06,Aurora Porto Alegre
+1095,16,Combo Brunch,Combo,1,42.00,42.00,LOJA,confirmado,2025-10-07,Aurora São Paulo
+1096,17,Espresso,Bebida,2,8.50,17.00,ONLINE,confirmado,2025-10-08,Aurora Rio de Janeiro
+1097,18,Cappuccino,Bebida,3,14.90,44.70,ONLINE,pendente,2025-10-09,Aurora Curitiba
+1098,19,Latte,Bebida,1,16.50,16.50,LOJA,cancelado,2025-10-10,Aurora Belo Horizonte
+1099,20,Pão de Queijo,Salgado,2,9.90,19.80,ONLINE,confirmado,2025-10-11,Aurora Porto Alegre
+1100,21,Bolo de Cenoura,Doce,3,12.50,37.50,ONLINE,confirmado,2025-10-12,Aurora São Paulo
+1101,22,Combo Brunch,Combo,1,42.00,42.00,LOJA,confirmado,2025-10-13,Aurora Rio de Janeiro
+1102,23,Espresso,Bebida,2,8.50,17.00,ONLINE,pendente,2025-10-14,Aurora Curitiba
+1103,24,Cappuccino,Bebida,3,14.90,44.70,ONLINE,cancelado,2025-10-15,Aurora Belo Horizonte
+1104,25,Latte,Bebida,1,16.50,16.50,LOJA,confirmado,2025-10-16,Aurora Porto Alegre
+1105,26,Pão de Queijo,Salgado,2,9.90,19.80,ONLINE,confirmado,2025-10-17,Aurora São Paulo
+1106,27,Bolo de Cenoura,Doce,3,12.50,37.50,ONLINE,confirmado,2025-10-18,Aurora Rio de Janeiro
+1107,28,Combo Brunch,Combo,1,42.00,42.00,LOJA,pendente,2025-10-19,Aurora Curitiba
+1108,29,Espresso,Bebida,2,8.50,17.00,ONLINE,cancelado,2025-10-20,Aurora Belo Horizonte
+1109,30,Cappuccino,Bebida,3,14.90,44.70,ONLINE,confirmado,2025-10-21,Aurora Porto Alegre
+1110,31,Latte,Bebida,1,16.50,16.50,LOJA,confirmado,2025-10-22,Aurora São Paulo
+1111,32,Pão de Queijo,Salgado,2,9.90,19.80,ONLINE,confirmado,2025-10-23,Aurora Rio de Janeiro
+1112,33,Bolo de Cenoura,Doce,3,12.50,37.50,ONLINE,pendente,2025-10-24,Aurora Curitiba
+1113,34,Combo Brunch,Combo,1,42.00,42.00,LOJA,cancelado,2025-10-25,Aurora Belo Horizonte
+1114,35,Espresso,Bebida,2,8.50,17.00,ONLINE,confirmado,2025-10-26,Aurora Porto Alegre
+1115,36,Cappuccino,Bebida,3,14.90,44.70,ONLINE,confirmado,2025-10-27,Aurora São Paulo
+1116,37,Latte,Bebida,1,16.50,16.50,LOJA,confirmado,2025-10-28,Aurora Rio de Janeiro
+1117,38,Pão de Queijo,Salgado,2,9.90,19.80,ONLINE,pendente,2025-10-29,Aurora Curitiba
+1118,39,Bolo de Cenoura,Doce,3,12.50,37.50,ONLINE,cancelado,2025-10-30,Aurora Belo Horizonte
+1119,40,Combo Brunch,Combo,1,42.00,42.00,LOJA,confirmado,2025-10-31,Aurora Porto Alegre
+1120,41,Espresso,Bebida,2,8.50,17.00,ONLINE,confirmado,2025-11-01,Aurora São Paulo
+1121,42,Cappuccino,Bebida,3,14.90,44.70,ONLINE,confirmado,2025-11-02,Aurora Rio de Janeiro
+1122,43,Latte,Bebida,1,16.50,16.50,LOJA,pendente,2025-11-03,Aurora Curitiba
+1123,44,Pão de Queijo,Salgado,2,9.90,19.80,ONLINE,cancelado,2025-11-04,Aurora Belo Horizonte
+1124,45,Bolo de Cenoura,Doce,3,12.50,37.50,ONLINE,confirmado,2025-11-05,Aurora Porto Alegre
+1125,46,Combo Brunch,Combo,1,42.00,42.00,LOJA,confirmado,2025-11-06,Aurora São Paulo
+1126,47,Espresso,Bebida,2,8.50,17.00,ONLINE,confirmado,2025-11-07,Aurora Rio de Janeiro
+1127,48,Cappuccino,Bebida,3,14.90,44.70,ONLINE,pendente,2025-11-08,Aurora Curitiba
+1128,49,Latte,Bebida,1,16.50,16.50,LOJA,cancelado,2025-11-09,Aurora Belo Horizonte
+1129,50,Pão de Queijo,Salgado,2,9.90,19.80,ONLINE,confirmado,2025-11-10,Aurora Porto Alegre
+1130,51,Bolo de Cenoura,Doce,3,12.50,37.50,ONLINE,confirmado,2025-11-11,Aurora São Paulo
+1131,52,Combo Brunch,Combo,1,42.00,42.00,LOJA,confirmado,2025-11-12,Aurora Rio de Janeiro
+1132,53,Espresso,Bebida,2,8.50,17.00,ONLINE,pendente,2025-11-13,Aurora Curitiba
+1133,54,Cappuccino,Bebida,3,14.90,44.70,ONLINE,cancelado,2025-11-14,Aurora Belo Horizonte
+1134,55,Latte,Bebida,1,16.50,16.50,LOJA,confirmado,2025-10-01,Aurora Porto Alegre
+1135,56,Pão de Queijo,Salgado,2,9.90,19.80,ONLINE,confirmado,2025-10-02,Aurora São Paulo
+1136,57,Bolo de Cenoura,Doce,3,12.50,37.50,ONLINE,confirmado,2025-10-03,Aurora Rio de Janeiro
+1137,58,Combo Brunch,Combo,1,42.00,42.00,LOJA,pendente,2025-10-04,Aurora Curitiba
+1138,59,Espresso,Bebida,2,8.50,17.00,ONLINE,cancelado,2025-10-05,Aurora Belo Horizonte
+1139,60,Cappuccino,Bebida,3,14.90,44.70,ONLINE,confirmado,2025-10-06,Aurora Porto Alegre
+1140,61,Latte,Bebida,1,16.50,16.50,LOJA,confirmado,2025-10-07,Aurora São Paulo
+1141,62,Pão de Queijo,Salgado,2,9.90,19.80,ONLINE,confirmado,2025-10-08,Aurora Rio de Janeiro
+1142,63,Bolo de Cenoura,Doce,3,12.50,37.50,ONLINE,pendente,2025-10-09,Aurora Curitiba
+1143,64,Combo Brunch,Combo,1,42.00,42.00,LOJA,cancelado,2025-10-10,Aurora Belo Horizonte
+1144,65,Espresso,Bebida,2,8.50,17.00,ONLINE,confirmado,2025-10-11,Aurora Porto Alegre
+1145,66,Cappuccino,Bebida,3,14.90,44.70,ONLINE,confirmado,2025-10-12,Aurora São Paulo
+1146,67,Latte,Bebida,1,16.50,16.50,LOJA,confirmado,2025-10-13,Aurora Rio de Janeiro
+1147,68,Pão de Queijo,Salgado,2,9.90,19.80,ONLINE,pendente,2025-10-14,Aurora Curitiba
+1148,69,Bolo de Cenoura,Doce,3,12.50,37.50,ONLINE,cancelado,2025-10-15,Aurora Belo Horizonte
+1149,70,Combo Brunch,Combo,1,42.00,42.00,LOJA,confirmado,2025-10-16,Aurora Porto Alegre
+1150,71,Espresso,Bebida,2,8.50,17.00,ONLINE,confirmado,2025-10-17,Aurora São Paulo
+1151,72,Cappuccino,Bebida,3,14.90,44.70,ONLINE,confirmado,2025-10-18,Aurora Rio de Janeiro
+1152,73,Latte,Bebida,1,16.50,16.50,LOJA,pendente,2025-10-19,Aurora Curitiba
+1153,74,Pão de Queijo,Salgado,2,9.90,19.80,ONLINE,cancelado,2025-10-20,Aurora Belo Horizonte
+1154,75,Bolo de Cenoura,Doce,3,12.50,37.50,ONLINE,confirmado,2025-10-21,Aurora Porto Alegre
+1155,76,Combo Brunch,Combo,1,42.00,42.00,LOJA,confirmado,2025-10-22,Aurora São Paulo
+1156,77,Espresso,Bebida,2,8.50,17.00,ONLINE,confirmado,2025-10-23,Aurora Rio de Janeiro
+1157,78,Cappuccino,Bebida,3,14.90,44.70,ONLINE,pendente,2025-10-24,Aurora Curitiba
+1158,79,Latte,Bebida,1,16.50,16.50,LOJA,cancelado,2025-10-25,Aurora Belo Horizonte
+1159,80,Pão de Queijo,Salgado,2,9.90,19.80,ONLINE,confirmado,2025-10-26,Aurora Porto Alegre
+1160,1,Bolo de Cenoura,Doce,3,12.50,37.50,ONLINE,confirmado,2025-10-27,Aurora São Paulo
+1161,2,Combo Brunch,Combo,1,42.00,42.00,LOJA,confirmado,2025-10-28,Aurora Rio de Janeiro
+1162,3,Espresso,Bebida,2,8.50,17.00,ONLINE,pendente,2025-10-29,Aurora Curitiba
+1163,4,Cappuccino,Bebida,3,14.90,44.70,ONLINE,cancelado,2025-10-30,Aurora Belo Horizonte
+1164,5,Latte,Bebida,1,16.50,16.50,LOJA,confirmado,2025-10-31,Aurora Porto Alegre
+1165,6,Pão de Queijo,Salgado,2,9.90,19.80,ONLINE,confirmado,2025-11-01,Aurora São Paulo
+1166,7,Bolo de Cenoura,Doce,3,12.50,37.50,ONLINE,confirmado,2025-11-02,Aurora Rio de Janeiro
+1167,8,Combo Brunch,Combo,1,42.00,42.00,LOJA,pendente,2025-11-03,Aurora Curitiba
+1168,9,Espresso,Bebida,2,8.50,17.00,ONLINE,cancelado,2025-11-04,Aurora Belo Horizonte
+1169,10,Cappuccino,Bebida,3,14.90,44.70,ONLINE,confirmado,2025-11-05,Aurora Porto Alegre
+1170,11,Latte,Bebida,1,16.50,16.50,LOJA,confirmado,2025-11-06,Aurora São Paulo
+1171,12,Pão de Queijo,Salgado,2,9.90,19.80,ONLINE,confirmado,2025-11-07,Aurora Rio de Janeiro
+1172,13,Bolo de Cenoura,Doce,3,12.50,37.50,ONLINE,pendente,2025-11-08,Aurora Curitiba
+1173,14,Combo Brunch,Combo,1,42.00,42.00,LOJA,cancelado,2025-11-09,Aurora Belo Horizonte
+1174,15,Espresso,Bebida,2,8.50,17.00,ONLINE,confirmado,2025-11-10,Aurora Porto Alegre
+1175,16,Cappuccino,Bebida,3,14.90,44.70,ONLINE,confirmado,2025-11-11,Aurora São Paulo
+1176,17,Latte,Bebida,1,16.50,16.50,LOJA,confirmado,2025-11-12,Aurora Rio de Janeiro
+1177,18,Pão de Queijo,Salgado,2,9.90,19.80,ONLINE,pendente,2025-11-13,Aurora Curitiba
+1178,19,Bolo de Cenoura,Doce,3,12.50,37.50,ONLINE,cancelado,2025-11-14,Aurora Belo Horizonte
+1179,20,Combo Brunch,Combo,1,42.00,42.00,LOJA,confirmado,2025-10-01,Aurora Porto Alegre
+1180,21,Espresso,Bebida,2,8.50,17.00,ONLINE,confirmado,2025-10-02,Aurora São Paulo
+1181,22,Cappuccino,Bebida,3,14.90,44.70,ONLINE,confirmado,2025-10-03,Aurora Rio de Janeiro
+1182,23,Latte,Bebida,1,16.50,16.50,LOJA,pendente,2025-10-04,Aurora Curitiba
+1183,24,Pão de Queijo,Salgado,2,9.90,19.80,ONLINE,cancelado,2025-10-05,Aurora Belo Horizonte
+1184,25,Bolo de Cenoura,Doce,3,12.50,37.50,ONLINE,confirmado,2025-10-06,Aurora Porto Alegre
+1185,26,Combo Brunch,Combo,1,42.00,42.00,LOJA,confirmado,2025-10-07,Aurora São Paulo
+1186,27,Espresso,Bebida,2,8.50,17.00,ONLINE,confirmado,2025-10-08,Aurora Rio de Janeiro
+1187,28,Cappuccino,Bebida,3,14.90,44.70,ONLINE,pendente,2025-10-09,Aurora Curitiba
+1188,29,Latte,Bebida,1,16.50,16.50,LOJA,cancelado,2025-10-10,Aurora Belo Horizonte
+1189,30,Pão de Queijo,Salgado,2,9.90,19.80,ONLINE,confirmado,2025-10-11,Aurora Porto Alegre
+1190,31,Bolo de Cenoura,Doce,3,12.50,37.50,ONLINE,confirmado,2025-10-12,Aurora São Paulo
+1191,32,Combo Brunch,Combo,1,42.00,42.00,LOJA,confirmado,2025-10-13,Aurora Rio de Janeiro
+1192,33,Espresso,Bebida,2,8.50,17.00,ONLINE,pendente,2025-10-14,Aurora Curitiba
+1193,34,Cappuccino,Bebida,3,14.90,44.70,ONLINE,cancelado,2025-10-15,Aurora Belo Horizonte
+1194,35,Latte,Bebida,1,16.50,16.50,LOJA,confirmado,2025-10-16,Aurora Porto Alegre
+1195,36,Pão de Queijo,Salgado,2,9.90,19.80,ONLINE,confirmado,2025-10-17,Aurora São Paulo
+1196,37,Bolo de Cenoura,Doce,3,12.50,37.50,ONLINE,confirmado,2025-10-18,Aurora Rio de Janeiro
+1197,38,Combo Brunch,Combo,1,42.00,42.00,LOJA,pendente,2025-10-19,Aurora Curitiba
+1198,39,Espresso,Bebida,2,8.50,17.00,ONLINE,cancelado,2025-10-20,Aurora Belo Horizonte
+1199,40,Cappuccino,Bebida,3,14.90,44.70,ONLINE,confirmado,2025-10-21,Aurora Porto Alegre
+1009,10,Pão de Queijo,Salgado,2,9.90,19.80,ONLINE,confirmado,2025-10-11,Aurora Porto Alegre

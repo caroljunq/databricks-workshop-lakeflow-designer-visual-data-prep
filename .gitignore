@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[codz]
+*$py.class
+.Python
+.venv
+venv/
+.env
+.envrc
+
+# Jupyter
+.ipynb_checkpoints
+
+# macOS
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+
+# Referências internas (não publicáveis)
+referencias/
+*.pptx
+~$*
+
+# Local temp
+*.log
+tempCodeRunnerFile.py

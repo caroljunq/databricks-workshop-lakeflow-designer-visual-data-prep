@@ -1,0 +1,83 @@
+cliente_id,nome,email,cidade,estado,canal_aquisicao,segmento,data_cadastro,ativo
+1,Ana Souza,ana.souza@auroracafe.com,São Paulo,SP,APP,Bronze,2024-01-08,true
+2,Bruno Lima,bruno.lima@auroracafe.com,Rio de Janeiro,RJ,LOJA,Prata,2024-01-15,true
+3,  Carla Mendes  ,carla.mendes@auroracafe.com,Curitiba,PR,PARCEIRO,Ouro,2024-01-22,true
+4,Diego Alves,diego.alves@auroracafe.com,Belo Horizonte,MG,SITE,Bronze,2024-01-29,true
+5,Elena Costa,elena.costa@auroracafe.com,Porto Alegre,RS,APP,Prata,2024-02-05,true
+6,Felipe Rocha,felipe.rocha@auroracafe.com,São Paulo,SP,LOJA,Ouro,2024-02-12,true
+7,Gabriela Nunes,gabriela.nunes@auroracafe.com,Rio de Janeiro,RJ,PARCEIRO,Bronze,2024-02-19,true
+8,Henrique Dias,henrique.dias@auroracafe.com,curitiba,PR,SITE,Prata,2024-02-26,true
+9,Isabela Pinto,isabela.pinto@auroracafe.com,Belo Horizonte,MG,APP,Ouro,2024-03-04,true
+10,João Martins,joão.martins@auroracafe.com,Porto Alegre,RS,LOJA,Bronze,2024-03-11,true
+11,Karina Lopes,karina.lopes@auroracafe.com,São Paulo,SP,PARCEIRO,Prata,2024-03-18,false
+12,Lucas Ferreira,,Rio de Janeiro,RJ,SITE,Ouro,2024-03-25,true
+13,Marina Teixeira,marina.teixeira@auroracafe.com,Curitiba,PR,APP,Bronze,2024-04-01,true
+14,Nicolas Barbosa,nicolas.barbosa@auroracafe.com,Belo Horizonte,MG,LOJA,Prata,2024-04-08,true
+15,Olivia Ramos,olivia.ramos@auroracafe.com,Porto Alegre,RS,PARCEIRO,Ouro,2024-04-15,true
+16,Paulo Vieira,paulo.vieira@auroracafe.com,São Paulo,SP,SITE,Bronze,2024-04-22,true
+17,Quezia Andrade,quezia.andrade@auroracafe.com,Rio de Janeiro,RJ,APP,Prata,2024-04-29,true
+18,Rafael Cunha,rafael.cunha@auroracafe.com,Curitiba,PR,LOJA,Ouro,2024-05-06,true
+19,Sofia Ribeiro,,Belo Horizonte,MG,PARCEIRO,Bronze,2024-05-13,true
+20,Thiago Moreira,thiago.moreira@auroracafe.com,Porto Alegre,RS,SITE,Prata,2024-05-20,true
+21,Úrsula Campos,úrsula.campos@auroracafe.com,São Paulo,SP,APP,Ouro,2024-05-27,true
+22,Vinícius Azevedo,vinícius.azevedo@auroracafe.com,Rio de Janeiro,RJ,LOJA,Bronze,2024-06-03,false
+23,Wanessa Freitas,wanessa.freitas@auroracafe.com,Curitiba,PR,PARCEIRO,Prata,2024-06-10,true
+24,Xavier Gomes,xavier.gomes@auroracafe.com,Belo Horizonte,MG,SITE,Ouro,2024-06-17,true
+25,Yasmin Duarte,yasmin.duarte@auroracafe.com,SAO PAULO,RS,APP,Bronze,2024-06-24,true
+26,Zeca Carvalho,zeca.carvalho@auroracafe.com,São Paulo,SP,LOJA,Prata,2024-07-01,true
+27,Beatriz Moura,beatriz.moura@auroracafe.com,Rio de Janeiro,RJ,PARCEIRO,Ouro,2024-07-08,true
+28,Caio Fernandes,caio.fernandes@auroracafe.com,Curitiba,PR,SITE,Bronze,2024-07-15,true
+29,Daniela Castro,daniela.castro@auroracafe.com,Belo Horizonte,MG,APP,Prata,2024-07-22,true
+30,Eduardo Pires,eduardo.pires@auroracafe.com,Porto Alegre,RS,LOJA,Ouro,2024-07-29,true
+31,Fernanda Araujo,fernanda.araujo@auroracafe.com,São Paulo,SP,PARCEIRO,Bronze,2024-08-05,true
+32,Gustavo Melo,gustavo.melo@auroracafe.com,Rio de Janeiro,RJ,SITE,Prata,2024-08-12,true
+33,Helena Cardoso,helena.cardoso@auroracafe.com,Curitiba,PR,APP,Ouro,2024-08-19,false
+34,Igor Santana,igor.santana@auroracafe.com,Belo Horizonte,MG,LOJA,Bronze,2024-08-26,true
+35,Julia Peixoto,julia.peixoto@auroracafe.com,Porto Alegre,RS,PARCEIRO,Prata,2024-09-02,true
+36,Kevin Borges,kevin.borges@auroracafe.com,São Paulo,SP,SITE,Ouro,2024-09-09,true
+37,Larissa Monteiro,larissa.monteiro@auroracafe.com,Rio de Janeiro,RJ,APP,Bronze,2024-09-16,true
+38,Mateus Silveira,mateus.silveira@auroracafe.com,Curitiba,PR,LOJA,Prata,2024-09-23,true
+39,Natália Farias,natália.farias@auroracafe.com,Belo Horizonte,MG,PARCEIRO,Ouro,2024-09-30,true
+40,Otávio Reis,otávio.reis@auroracafe.com,Porto Alegre,RS,SITE,Bronze,2024-10-07,true
+41,Priscila Nogueira,priscila.nogueira@auroracafe.com,São Paulo,SP,APP,Prata,2024-10-14,true
+42,Renato Sampaio,renato.sampaio@auroracafe.com,Rio de Janeiro,RJ,LOJA,Ouro,2024-10-21,true
+43,Samara Brito,samara.brito@auroracafe.com,Curitiba,PR,PARCEIRO,Bronze,2024-10-28,true
+44,Túlio Magalhães,túlio.magalhães@auroracafe.com,Belo Horizonte,MG,SITE,Prata,2024-11-04,false
+45,Valentina Cruz,valentina.cruz@auroracafe.com,Porto Alegre,RS,APP,Ouro,2024-11-11,true
+46,Wagner Tavares,wagner.tavares@auroracafe.com,São Paulo,SP,LOJA,Bronze,2024-11-18,true
+47,Ximena Prado,ximena.prado@auroracafe.com,Rio de Janeiro,RJ,PARCEIRO,Prata,2024-11-25,true
+48,Yuri Albuquerque,yuri.albuquerque@auroracafe.com,Curitiba,PR,SITE,Ouro,2024-12-02,true
+49,Zélia Fonseca,zélia.fonseca@auroracafe.com,Belo Horizonte,MG,APP,Bronze,2024-12-09,true
+50,Amanda Correia,amanda.correia@auroracafe.com,Porto Alegre,RS,LOJA,Prata,2024-12-16,true
+51,Bernardo Pacheco,bernardo.pacheco@auroracafe.com,São Paulo,SP,PARCEIRO,Ouro,2024-12-23,true
+52,Camila Vasconcelos,camila.vasconcelos@auroracafe.com,Rio de Janeiro,RJ,SITE,Bronze,2024-12-30,true
+53,Davi Figueiredo,davi.figueiredo@auroracafe.com,Curitiba,PR,APP,Prata,2025-01-06,true
+54,Elisa Guimarães,elisa.guimarães@auroracafe.com,Belo Horizonte,MG,LOJA,Ouro,2025-01-13,true
+55,Fabio Antunes,fabio.antunes@auroracafe.com,Porto Alegre,RS,PARCEIRO,Bronze,2025-01-20,false
+56,Giovana Macedo,giovana.macedo@auroracafe.com,São Paulo,SP,SITE,Prata,2025-01-27,true
+57,Heitor Barros,heitor.barros@auroracafe.com,Rio de Janeiro,RJ,APP,Ouro,2025-02-03,true
+58,Ingrid Leal,ingrid.leal@auroracafe.com,Curitiba,PR,LOJA,Bronze,2024-01-07,true
+59,Jorge Caldas,jorge.caldas@auroracafe.com,Belo Horizonte,MG,PARCEIRO,Prata,2024-01-14,true
+60,Leticia Siqueira,leticia.siqueira@auroracafe.com,Porto Alegre,RS,SITE,Ouro,2024-01-21,true
+61,Murilo Batista,murilo.batista@auroracafe.com,São Paulo,SP,APP,Bronze,2024-01-28,true
+62,Nina Coelho,nina.coelho@auroracafe.com,Rio de Janeiro,RJ,LOJA,Prata,2024-02-04,true
+63,Otto Viana,otto.viana@auroracafe.com,Curitiba,PR,PARCEIRO,Ouro,2024-02-11,true
+64,Patricia Neves,patricia.neves@auroracafe.com,Belo Horizonte,MG,SITE,Bronze,2024-02-18,true
+65,Quirino Lacerda,quirino.lacerda@auroracafe.com,Porto Alegre,RS,APP,Prata,2024-02-25,true
+66,Rita Assis,rita.assis@auroracafe.com,São Paulo,SP,LOJA,Ouro,2024-03-03,false
+67,Sérgio Padilha,sérgio.padilha@auroracafe.com,Rio de Janeiro,RJ,PARCEIRO,Bronze,2024-03-10,true
+68,Tainá Guedes,tainá.guedes@auroracafe.com,Curitiba,PR,SITE,Prata,2024-03-17,true
+69,Ulisses Prado,ulisses.prado@auroracafe.com,Belo Horizonte,MG,APP,Ouro,2024-03-24,true
+70,Vera Lins,vera.lins@auroracafe.com,Porto Alegre,RS,LOJA,Bronze,2024-03-31,true
+71,William Canto,william.canto@auroracafe.com,São Paulo,SP,PARCEIRO,Prata,2024-04-07,true
+72,Yara Braga,yara.braga@auroracafe.com,Rio de Janeiro,RJ,SITE,Ouro,2024-04-14,true
+73,Zion Matos,zion.matos@auroracafe.com,Curitiba,PR,APP,Bronze,2024-04-21,true
+74,Alice Furtado,alice.furtado@auroracafe.com,Belo Horizonte,MG,LOJA,Prata,2024-04-28,true
+75,Breno Aguiar,breno.aguiar@auroracafe.com,Porto Alegre,RS,PARCEIRO,Ouro,2024-05-05,true
+76,Cecília Torres,cecília.torres@auroracafe.com,São Paulo,SP,SITE,Bronze,2024-05-12,true
+77,Danilo Esteves,danilo.esteves@auroracafe.com,Rio de Janeiro,RJ,APP,Prata,2024-05-19,false
+78,Eva Lambert,eva.lambert@auroracafe.com,Curitiba,PR,LOJA,Ouro,2024-05-26,true
+79,Flávio Neri,flávio.neri@auroracafe.com,Belo Horizonte,MG,PARCEIRO,Bronze,2024-06-02,true
+80,Glória Pimentel,glória.pimentel@auroracafe.com,Porto Alegre,RS,SITE,Prata,2024-06-09,true
+1,Ana Souza,ana.souza@auroracafe.com,São Paulo,SP,APP,Bronze,2024-01-08,true
+5,Elena Costa,elena.costa.dup@auroracafe.com,Porto Alegre,RS,APP,Prata,2024-02-05,true
